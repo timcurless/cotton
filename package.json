@@ -1,0 +1,19 @@
+{
+  "name": "cotton",
+  "version": "0.1.0",
+  "description": "Soft Reserve Manager for WoW Classic",
+  "main": "index.js",
+  "repository": "https://github.com/timcurless/cotton.git",
+  "author": "Tim Curless",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
